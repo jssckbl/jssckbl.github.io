@@ -11,7 +11,7 @@ const Content = styled.div`
 
 const NavLink = styled(Link)`
   color: black;
-  margin-left: 15px;
+  margin-left: 30px;
   text-decoration: none;
   display: inline-block;
   position: relative;
@@ -37,7 +37,7 @@ const NavLink = styled(Link)`
 
 const GitHubLink = styled.a`
   color: black;
-  margin-left: 15px;
+  margin-left: 30px;
   text-decoration: none;
   display: inline-block;
   position: relative;
@@ -66,7 +66,7 @@ const HomeLink = styled(NavLink)`
 `
 const LinkedInLink = styled.a`
   color: black;
-  margin-left: 15px;
+  margin-left: 30px;
   text-decoration: none;
   display: inline-block;
   position: relative;
@@ -98,7 +98,7 @@ const SiteHeader = styled.header`
 `
 const TwitterLink = styled.a`
   color: black;
-  margin-left: 15px;
+  margin-left: 30px;
   text-decoration: none;
   display: inline-block;
   position: relative;
